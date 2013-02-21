@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AR",
+				"ARCHIV_DIR"
+			],
+			[
+				"a",
+				"axmsibach"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ulriro/rails_projects/demo_app/Gemfile",
+		"/home/ulriro/rails_projects/first_app/README.md",
+		"/home/ulriro/rails_projects/first_app/.gitignore",
+		"/home/ulriro/rails_projects/first_app/Gemfile",
+		"/home/ulriro/rails_projects/first_app/Gemfile.lock",
+		"/home/ulriro/.gemrc",
+		"/home/ulriro/projects/archiv/trunk/debian/DEBIAN/prerm",
+		"/home/ulriro/projects/archiv/trunk/debian/deb_build.rb",
+		"/home/ulriro/projects/archiv/branches/1.0.1/debian/DEBIAN/prerm",
+		"/home/ulriro/projects/archiv/diff.txt",
+		"/home/ulriro/projects/archiv/diff2.txt",
+		"/home/ulriro/projects/archiv/trunk/debian/etc/cron.d/archiv",
+		"/home/ulriro/projects/archiv/branches/1.0.1/cocoon/trunk/sibach/protected/resources/languages/reports_it.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.1/cocoon/trunk/sibach/protected/resources/languages/reports_de.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.1/cocoon/trunk/sibach/protected/resources/languages/menu_it.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.1/cocoon/trunk/sibach/protected/main/menu.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.1/cocoon/trunk/sibach/protected/resources/languages/menu_de.xml",
+		"/home/ulriro/Documents/Roger/scripts/1priv8.php",
+		"/home/ulriro/Documents/Roger/scripts/dc.pl",
+		"/home/ulriro/Documents/Roger/scripts/xplor.py",
+		"/home/ulriro/Documents/Roger/scripts/wso.php",
+		"/home/ulriro/Documents/Roger/scripts/sym.php",
+		"/home/ulriro/Documents/Roger/scripts/s.php",
+		"/home/ulriro/Documents/Roger/scripts/r57.php",
+		"/home/ulriro/Documents/Roger/scripts/cgiPerl.dz",
+		"/home/ulriro/Documents/Roger/scripts/autoroot.txt",
+		"/home/ulriro/projects/archiv/trunk/cocoon/sibach/protected/main/menu.xml",
+		"/home/ulriro/projects/archiv/trunk/cocoon/sibach/protected/sitemap.xmap",
+		"/home/ulriro/projects/archiv/trunk/config/mount-table.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.1/debian/deb_build.rb",
+		"/home/ulriro/projects/archiv/branches/1.0.1/mysql/del_and_create_sibach_only_views.sql",
+		"/home/ulriro/projects/limdis/2010/sql_statements",
+		"/home/ulriro/.cache/.fr-Im2NT4/Ausgzug sybaselog.txt",
+		"/home/ulriro/projects/limdis/2434/errorlog",
+		"/home/ulriro/projects/limdis/2112/zugteil_plan",
+		"/home/ulriro/projects/limdis/2112/zugsegment_plan",
+		"/home/ulriro/Downloads/Umgebungsvariablen (1).txt",
+		"/home/ulriro/.cache/.fr-XmUe9L/Ausgzug sybaselog.txt",
+		"/home/ulriro/.cache/.fr-U62W7j/Ausgzug sybaselog.txt",
+		"/home/ulriro/.cache/.fr-6Y6Kgy/Ausgabe DB_Anpassung_reswest.txt",
+		"/home/ulriro/.cache/.fr-rK60VF/Ausgabe DB_Anpassung_reswest.txt",
+		"/home/ulriro/.cache/.fr-ZIW573/Ausgabe DB_Anpassung_reswest.txt",
+		"/home/ulriro/.cache/.fr-0P6fb2/Ausgabe DB_Anpassung_reswest.txt",
+		"/home/ulriro/Downloads/Umgebungsvariablen.txt",
+		"/home/ulriro/projects/archiv/branches/1.0.1/debian/etc/cron.d/archiv",
+		"/home/ulriro/projects/archiv/branches/1.0.1/debian/DEBIAN/postinst",
+		"/home/ulriro/projects/archiv2/diff_archiv2.txt",
+		"/home/ulriro/projects/archiv/branches/1.0.1/config/backup_archiv_bsrb",
+		"/home/ulriro/projects/archiv/branches/1.0.1/mysql/create_users.sql",
+		"/home/ulriro/projects/archiv2/test_nodata.sql",
+		"/home/ulriro/projects/archiv2/diff_archiv.txt",
+		"/home/ulriro/projects/archiv2/diff2.txt",
+		"/home/ulriro/projects/archiv2/dump_mysql_20130212.sql",
+		"/home/ulriro/projects/archiv/branches/1.0.1/config/backup_archiv_test",
+		"/home/ulriro/.gvfs/g_sys_luz$ on sysmisb/copyBox/Roger_Ulrich/1958/1958log.txt",
+		"/home/ulriro/.gvfs/g_sys_luz$ on sysmisb/copyBox/Roger_Ulrich/1958/agsegmentCheck.cpp",
+		"/tmp/ld_planung_pid0348_2012-04-17_1151.dmp",
+		"/home/ulriro/projects/archiv/trunk/debian/DEBIAN/postinst",
+		"/home/ulriro/projects/archiv/branches/1.0.0/debian/DEBIAN/postinst",
+		"/home/ulriro/projects/archiv/branches/1.0.0/mysql/insertfperdata.sql",
+		"/home/ulriro/projects/archiv/branches/1.0.0/mysql/create_users.sql",
+		"/home/ulriro/projects/archiv/branches/1.0.0/debian/deb_build.rb",
+		"/home/ulriro/projects/archiv/branches/1.0.1/config/cocoon.xconf",
+		"/home/ulriro/projects/archiv/branches/1.0.1/config/archiv.sh",
+		"/home/ulriro/projects/archiv/trunk/cocoon/trunk/sibach/protected/reports/abgang/verspaetung_form_taegl/report.xsp",
+		"/home/ulriro/projects/archiv/trunk/cocoon/trunk/sibach/protected/reports/ankunft/ankunftslast_axm/report.xsp",
+		"/home/ulriro/projects/archiv/trunk/cocoon/trunk/sibach/protected/reports/ankunft/ankunftslast_sncf/report.xsp",
+		"/home/ulriro/projects/archiv/trunk/cocoon/trunk/sibach/protected/reports/ankunft/ankunftslast/report.xsp",
+		"/home/ulriro/projects/archiv/branches/1.0.1/config/mount-table.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.0/debian/DEBIAN/prerm",
+		"/home/ulriro/projects/archiv/branches/1.0.0/config/mount-table.xml",
+		"/home/ulriro/projects/archiv/branches/1.0.1/debian/DEBIAN/control",
+		"/home/ulriro/projects/archiv/branches/1.0.0/debian/DEBIAN/control",
+		"/home/ulriro/projects/archiv/trunk/debian/DEBIAN/control",
+		"/home/ulriro/projects/archiv/trunk/debian/DEBIAN/preinst",
+		"/home/ulriro/projects/archiv/debian/DEBIAN/postinst",
+		"/home/ulriro/projects/archiv/debian/deb_build.rb",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/reports/abgang/verspaetung_form_taegl/report.xsp",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/reports/ankunft/ankunftslast_axm/report.xsp",
+		"/home/ulriro/projects/archiv/mysql/create_sibach_only_database.sql",
+		"/home/ulriro/projects/archiv/mysql/create_users.sql",
+		"/home/ulriro/projects/archiv/mysql/create_sibach.sql",
+		"/home/ulriro/projects/archiv/debian/etc/tomcat6/context.xml",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/setup/stammdaten/sitemap.xmap",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/setup/stammdaten/languages/stammdaten_en.xml",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/setup/stammdaten/languages/stammdaten.xml",
+		"/home/ulriro/projects/archiv/config/backup_archiv_bsrb",
+		"/home/ulriro/projects/archiv/config/backup_archiv_chsm",
+		"/home/ulriro/projects/archiv/config/backup_archiv_test",
+		"/home/ulriro/projects/archiv/config/cocoon.xconf",
+		"/mnt/test/testfile",
+		"/home/ulriro/projects/archiv/debian/DEBIAN/control",
+		"/home/ulriro/projects/archiv/config/archiv.sh",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/sitemap.xmap",
+		"/home/ulriro/projects/archiv/debian/etc/exports",
+		"/home/ulriro/projects/archiv/citrus/dev/build.xml",
+		"/home/ulriro/projects/archiv/config/config_ctrs_bsrb.xml",
+		"/home/ulriro/projects/archiv/debian/etc/init.d/tomcat6",
+		"/home/ulriro/projects/archiv/cocoon/dist/sitemap.xmap",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/sitemap.xmap",
+		"/home/ulriro/projects/archiv/config/config_ctrs_test.xml",
+		"/home/ulriro/projects/archiv/citrusdetective/dev/build.xml",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/protected/setup/citrus/sitemap.xmap",
+		"/home/ulriro/projects/archiv/tomcat6",
+		"/home/ulriro/projects/archiv_basel/tomcat6/server.xml",
+		"/home/ulriro/projects/archiv2/tomcat6/server.xml",
+		"/home/ulriro/projects/archiv_basel/tomcat6/tomcat6.conf",
+		"/home/ulriro/projects/archiv/tomcat6/context.xml",
+		"/home/ulriro/projects/archiv/tomcat6/diff.txt",
+		"/home/ulriro/projects/archiv/tomcat6/server.xml",
+		"/home/ulriro/diff.txt",
+		"/home/ulriro/test",
+		"/home/ulriro/projects/archiv/cocoon/dist/WEB-INF/cocoon.xconf",
+		"/home/ulriro/projects/archiv/cocoon/dist/samples/blocks/jms/database/eventcache.xsp",
+		"/home/ulriro/projects/archiv/tomcat6/web.xml",
+		"/home/ulriro/projects/archiv_basel/tomcat6/web.xml",
+		"/home/ulriro/projects/archiv/config/mount-table.xml",
+		"/home/ulriro/projects/archiv/cocoon/trunk/sibach/auth/authenticate.xml",
+		"/home/ulriro/projects/archiv/citrus/dev/src/ch/sbb/ctrs/config/Config.java",
+		"/home/ulriro/projects/archiv/citrus/config/classpath",
+		"/home/ulriro/projects/archiv_basel/cocoon/trunk/sibach/auth/authenticate.xml",
+		"/home/ulriro/projects/archiv/cocoon/dist/samples/modules/forrestconf.xml",
+		"/home/ulriro/.cache/.fr-gZgFWv/samples/modules/forrestconf.xml",
+		"/home/ulriro/projects/archiv2/diff.txt",
+		"/home/ulriro/projects/archiv2/diff5.txt",
+		"/home/ulriro/projects/archiv2/diff3.txt",
+		"/home/ulriro/projects/archiv2/diff4.txt",
+		"/home/ulriro/projects/archiv2/diff6.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/ulriro/projects/archiv/branches/1.0.1",
+			"/home/ulriro/projects/archiv/trunk",
+			"/home/ulriro/projects/archiv/",
+			"/home/ulriro/projects/archiv/trunk",
+			"/home/ulriro/projects/archiv",
+			"/home/ulriro/projects/sbb/lm",
+			"/home/ulriro/projects/lm/axm/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"umstellungen_2013_detail",
+			"branches/tags",
+			"cocoon/branches",
+			"trunk",
+			"	",
+			"DATUM_VON",
+			"zugteil_plan",
+			"Syfa",
+			"plan",
+			":2013/02/18",
+			"*2013/02/18",
+			"00:00000:00001:2013/02/18",
+			"error",
+			"ctrs_start",
+			"UM_WG_GRP",
+			"AXMESS_UNIQUE",
+			"u111979",
+			"backup",
+			"jms",
+			"sibach",
+			"trunk",
+			"sibach",
+			"AXMESS_UNI",
+			"StandardManager",
+			"drop",
+			"jms",
+			"archiv/",
+			"PATH",
+			"do-login",
+			"pipeline",
+			"todaylogfile",
+			"cocoon",
+			"todaylogfile",
+			"manager",
+			"org.exolab.jms.jndi.InitialContextFactory",
+			"JoblistGenerator",
+			"ch.sbb.ctrs.detective.cocoon.JoblistGenerator",
+			"openjms",
+			"mysql",
+			"xmyxml",
+			"xmyxml\n\n\nxmyxml",
+			"mysql",
+			"mysql-connector",
+			"}",
+			"mysql",
+			"sibach",
+			"=sibach",
+			"user=citrus",
+			"citrus",
+			"sibach",
+			"archiv",
+			"xmyxml",
+			"archiv",
+			"jndi",
+			"/usr/share/java",
+			"mysql",
+			"log",
+			"login",
+			"/usr/lib/jvm/java/bin/java",
+			"/usr/share/tomcat6/server",
+			"jms",
+			"balma",
+			"do-login",
+			"mount-tab",
+			"archiv",
+			"map:match",
+			"CATALINA",
+			"CATALINA_BASE",
+			"catalina_base",
+			"login",
+			"archiv",
+			"reports",
+			"/cocoon/trunk/sibach",
+			"report",
+			"archiv",
+			"admin",
+			"sql",
+			"Config",
+			"ExecScript\n\nExecScript",
+			"ConfigPath",
+			"argv[]",
+			"main(int",
+			"main(",
+			"int main(",
+			"main",
+			"axmd",
+			".jar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
